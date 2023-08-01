@@ -27,19 +27,24 @@ Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet mu
 **Øvelser med fed skrift skal afleveres i Lectio i opgaven, der er knyttet dertil**.
 
 Disse afleveringer udgør logbogen, som der er et krav fra bekendtgørelsen om, at I løbende udarbejder (se bekendtgørelsen nedenfor). Øvelserne bliver gennemgået i timen, men pga. begrænset rettetid vil der ikke blive givet individuel feedback på disse men de vil dog stadig blive inddraget ved karaktergivningen. 
-Den begrænsede elevtid/rettetid vil blive anvendt på de større projekter. 
+Den begrænsede elevtid/rettetid vil blive anvendt på de helt store, selvstændige projekter. 
 
 ## Undervisningsplan
 Herunder en tentativ plan for undervisningen, der opdateres undervejs.  
 
-Et delforløb dækker typisk over 2-4 moduler á 45 min. Men det kan variere afhængig af hvor langt vi når. 
+Et modul svarer til en lektion på 45 min. Det er muligt at nogle delforløb tager længere eller kortere tid. De involverer den tid, der bliver brugt på oplæg, præsentationer og arbejde med øvelserne i timerne. Som udgangspunkt er det planen, at de fleste øvelser laves i timerne. 
 
 ### Oversigt
-Delforløb nr       | Læsestof     | Indhold                     | Øvelser     |
------------ | ----------- | ----------------------------| ----------- |
-1          |  Skim Forord og læs kap 1       | Intro til programmering og P5 |   **1-7** i kap 1         |
-2 | kap 2 | De første programmer, geometriske figurer | **1-9 og Projekt i kap 2**. Projektet præsenteres på tavlen|    
-3 | kap 3 | Variabler, input og animationer| **1-16 og Projekt i kap 2** |
+Delforløb nr       | Antal moduler | Læsestof     | Indhold                     | Øvelser     |
+----------- |----------- | ----------- | ----------------------------| ----------- |
+1 |2-4 |  Skim Forord og læs kap 1       | Intro til programmering og P5 |   **1-7** i kap 1         |
+2 |4-6 | kap 2 | De første programmer, geometriske figurer | **1-9 og Projekt i kap 2**. |    
+3 |4-6 | kap 3 | Variabler, input og animationer| **1-16 og Projekt i kap 3** |
+4 |2-4| kap 4 | Betinget udførsel| **1-11 og selvvalgt projekt i kap 4** |
+5 |4-6 |kap 5 | Løkker og arrays | **1-7,13-18 og selvvalgt projekt i kap 5** |
+6 |4-6 |kap 6 | Funktioner | **1-10 og selvvalgt projekt i kap 6** |
+7 |4-6 |kap 6 | Rekursive funktioner | **1-10 og selvvalgt projekt i kap 6** |
+
 
 
 ## Læreplaner
