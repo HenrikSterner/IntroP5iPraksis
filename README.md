@@ -19,7 +19,7 @@ Vi bruger min egen lærebog som grundbog og så suppleres med noter og anden lit
 
 _Programmering i Praksis_ af Henrik Sterner og Peter Sterner. Copyright (C) 2023. 
 
-Bogen er ved at blive publiceret på et forlag, men I får adgang til den som pdf i starten af den første time. 
+Bogen er ved at blive publiceret på et forlag, men I får adgang til den som pdf i starten af den første time. I får løbende adgang til den nyeste opdateret version.
 
 ## Øvelser
 Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester! Gå ikke videre før du har styr på det fundamentale. 
@@ -41,9 +41,10 @@ Delforløb nr       | Antal moduler | Læsestof     | Indhold                   
 2 |4-6 | kap 2 | De første programmer, geometriske figurer | **1-9 og Projekt i kap 2**. |    
 3 |4-6 | kap 3 | Variabler, input og animationer| **1-16 og Projekt i kap 3** |
 4 |2-4| kap 4 | Betinget udførsel| **1-11 og selvvalgt projekt i kap 4** |
-5 |4-6 |kap 5 | Løkker og arrays | **1-7,13-18 og selvvalgt projekt i kap 5** |
+5 |6-8 |kap 5 | Løkker og arrays | **1-7,13-18 og selvvalgt projekt i kap 5** |
 6 |4-6 |kap 6 | Funktioner | **1-10 og selvvalgt projekt i kap 6** |
-7 |4-6 |kap 6 | Rekursive funktioner | **1-10 og selvvalgt projekt i kap 6** |
+7 |10 |Opgaveformulering | Projekt: Spiludvikling | **Projekt beskrivelse og rapport** |
+8 |4-6 |kap 7 | Rekursive funktioner | **1-10 og selvvalgt projekt i kap 7** |
 
 
 
