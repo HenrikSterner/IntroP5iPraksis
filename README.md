@@ -35,6 +35,8 @@ Herunder en tentativ plan for undervisningen, der opdateres undervejs.
 Et modul svarer til en lektion på 45 min. Det er muligt at nogle delforløb tager længere eller kortere tid. De involverer den tid, der bliver brugt på oplæg, præsentationer og arbejde med øvelserne i timerne. Som udgangspunkt er det planen, at de fleste øvelser laves i timerne. 
 
 
+
+
 ### Oversigt
 Delforløb nr       | Antal moduler | Læsestof     | Indhold                     | Øvelser     |
 ----------- |----------- | ----------- | ----------------------------| ----------- |
