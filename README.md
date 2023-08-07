@@ -19,7 +19,7 @@ Vi bruger min egen lærebog som grundbog og så suppleres med noter og anden lit
 
 _Programmering i Praksis_ af Henrik Sterner og Peter Sterner. Copyright (C) 2023. 
 
-Bogen er ved at blive publiceret på et forlag, men I får adgang til den som pdf i starten af den første time. I får løbende adgang til den nyeste opdateret version.
+Bogen er ved at blive publiceret på et forlag, men I har adgang til den på [https://henriksterner.github.io/P5Programmering/](https://henriksterner.github.io/P5Programmering/)
 
 ## Øvelser
 Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester! Gå ikke videre før du har styr på det fundamentale. 
