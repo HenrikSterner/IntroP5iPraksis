@@ -60,7 +60,6 @@ Et modul svarer til en lektion på 45 min. Det er muligt at nogle delforløb tag
 |17 |4-6 |kap 15 | Udviklingsprocesser | **1-10  i kap 15** |
 
 
-
 For B-niveau fortsættes efterfølgende med videregående emner (typisk i Python/C#/Java eller lignende) indenfor blandt andet avanceret datastrukturer og algoritmer, operativsystemer og netværksprogrammering, objektorienteret design og designmønstre, webudvikling og frameworks som React eller angular,databaser og databaseadministration, sikkerhed og kryptografi, maskine læring og kunstig intelligens og distribuerede systemer. 
 
 
