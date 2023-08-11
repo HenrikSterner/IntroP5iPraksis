@@ -75,6 +75,6 @@ For B-niveau fortsættes efterfølgende med videregående emner (typisk i Python
 ## Læreplaner: Faglige mål og eksamensform
 For dem som har lyst er der mulighed for at læse bekendtgørelserne samt vejledninger for programmering c/b 
 på [ministeriets side](https://www.uvm.dk/gymnasiale-uddannelser/fag-og-laereplaner/laereplaner-2017/valgfag-laereplaner-2017).
-Her kan man bl.a. i detaljer læse om de faglige mål for faget samt eksamensformen og meget andet. 
+Her kan man bl.a. i detaljer læse om de faglige mål for faget samt eksamensformen og meget andet. Det kan være en god ide at gennemlæse bekendtgørelsen for ethvert fag, da det er styringsdokumentet for alle fag. 
 
  
